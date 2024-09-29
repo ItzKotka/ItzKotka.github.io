@@ -17,3 +17,10 @@
 * Clicked "Clone Repository"
 * Selected the Repository
 * Saved the Repository to my D: Drive
+
+# About Me
+## My Interests
+* Love video games, particularly Fortnite, Destiny 2, and NHL titles (NHL 25 is great by the way!)
+## Websites I Recommend
+- [Carolina Pro Shop](https://carolinaproshop.com/?srsltid=AfmBOooF77JwqVI1OFHsXhdBmomgm9R1y4YVlyDGYLEnE0H83V0cc8DM) - Great website to shop for the latest and greatest Carolina Hurricanes gear!
+- [Carolina Hurricanes Website](https://www.nhl.com/hurricanes/) Best way to keep up to date with all things Hurricanes apart from social media accounts.
